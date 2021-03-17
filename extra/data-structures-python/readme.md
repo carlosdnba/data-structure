@@ -1,0 +1,1 @@
+This repo contains the exercises of *Data Structures and Algorithms Using Python*
